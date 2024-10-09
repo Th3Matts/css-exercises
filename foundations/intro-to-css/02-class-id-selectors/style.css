@@ -1,0 +1,21 @@
+.title{
+  font-family: 'Verdana, DejaVu Sans, sans-serif';
+
+  background: hsla(355, 100%, 80%, 0.966);
+}
+
+.title.biggerTitle{
+  font-size: 24px;
+}
+
+#div2{
+  font-size: 36px;
+  color: hsl(240, 100%, 50%);
+}
+
+#div4{
+  font-size: 24px;
+  font-weight: bold;
+
+  background: hsl(120, 73%, 75%);
+}
