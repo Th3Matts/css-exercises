@@ -8,14 +8,14 @@ body {
   border: 3px solid blue;
   /* CHANGE ME */
   padding: 0px;
-  margin: 0px;
+  margin: 12px;
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 0px;
+  margin-bottom: 48px;
 }
 
 .three {
@@ -23,6 +23,12 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
+  /* margin-left: auto will move our element all the way to the right, but will only work with a width defined */
   padding: 0px;
-  margin-left: 0px;
+  margin-left: auto;
+}
+
+.one,
+.three{
+  padding: 32px;
 }
