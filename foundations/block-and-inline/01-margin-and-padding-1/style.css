@@ -23,8 +23,9 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
+  /* margin-left: auto will move our element all the way to the right, but will only work with a width defined */
   padding: 0px;
-  margin-left: 55%;
+  margin-left: auto;
 }
 
 .one,
