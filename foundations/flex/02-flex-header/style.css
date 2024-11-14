@@ -19,19 +19,14 @@
 
 ul {
   /* this removes the dots on the list items*/
+  padding: 0;
+
   display: flex;
   justify-content: space-between;
   align-items: center;
-  
+  gap: 8px;
+
   list-style-type: none;
-}
-
-ul li{
-  margin: 8px;
-}
-
-.left-links > ul{
-  padding: 0;
 }
 
 a {
