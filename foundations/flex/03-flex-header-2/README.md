@@ -14,8 +14,8 @@ As with the last example, this one needs to be flexible in the middle, with item
 ![gif](./desired-outcome.gif)
 
 ### Self Check
-- Everything is centered vertically inside the header.
-- There is 8px space between everything and the edge of the header.
-- Items are arranged horizontally as seen in the outcome image.
-- There is 16px between each item on both sides of the header.
-- flex is used to arrange everything.
+- [x] Everything is centered vertically inside the header.
+- [x] There is 8px space between everything and the edge of the header.
+- [x] Items are arranged horizontally as seen in the outcome image.
+- [x] There is 16px between each item on both sides of the header.
+- [x] flex is used to arrange everything.

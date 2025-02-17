@@ -1,0 +1,11 @@
+Duas situações reportadas pela operação:
+1) Em algumas situações quando realizado o contato manual e não havendo sucesso no contato, ao registrar uma das opções disponíveis para tabulação (NÃO ATENDE, ou CX POSTAL), ao invés de encerrar a chamada e tabular com a opção listada, envia para a outra tela com as outras opões de tabulação, e nesta tela não estão disponíveis estas opções para tabular. Paliativamente posso cadastrar estas outras duas opções, mas, peço que verifiquem o porque ocorrem estas situações.
+R: Entrar em uma maquina de um operador para o mesmo mostrar o problema ocorrendo.
+
+2) Ao transitar entre o modo PAUSA e o modo LIGAÇÃO MANUAL (por exemplo), instantaneamente o discador entrega uma ligação, sendo que o operador pode estar com um atendimento em curso por outra canal (whatasapp por exemplo), em um situação de necessidade de contato com o cliente, e o discador entrega uma ligação. Não há como manter um tempo de prazo para que o discador entregue uma ligação entre o trânsito de status?
+
+R: Anderson, isso não será possivel, sabe me dizer com qual frequência que ocorre? Pelo que eu acompanhei aqui as ligações e a operação isso ocorre esporádicamente. Por que quando o operador sai do modo manual ele vai para a parte de baixo da fila de atendimento. E mesmo no caso da Maria, que fica no grupo do colchão, quando ela sai da pausa o sistema tem que começar a discagem e assim que ela entra no modo manual o sistema para da discagem.
+
+3) ÚLTIMAS CHAMADAS: quando necessário explorar o menu para analisar ou reportar uma situação envolvendo as útimas chamadas, o discador igualmente entrega uma ligação com o menu _ULTIMAS CHAMADAS_ aberto. Como sugestão, pedimos para ajustar o acesso ao menu ULTIMAS CHAMADAS a partir do menu PAUSA ADM, ou desabilitar o recebimento de novas chamadas enquanto a tela de ÚLTIMAS CHAMADAS estiver aberto.
+
+R: Você pode me enviar um ticket com essa solicitação no suporte@fastway.com.br? Achei interessante!! Até o momento nunca solicitaram isso, mas é algo que acredito que o desenvolvimento consiga inserir para nós!

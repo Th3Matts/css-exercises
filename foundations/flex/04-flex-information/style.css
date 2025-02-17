@@ -2,6 +2,26 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
+main{
+  text-align: center;
+}
+
+.plantContainer,
+.item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.plantContainer{
+  margin-top: 2rem;
+  gap: 52px;
+}
+
+.item{
+  width: 200px;
+  flex-direction: column;
+}
+
 img {
   width: 100px;
   height: 100px;
@@ -17,6 +37,7 @@ img {
   position: fixed;
   bottom: 0;
   left: 0;
+
   right: 0;
   height: 52px;
   display: flex;
